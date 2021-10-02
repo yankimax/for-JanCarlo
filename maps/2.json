@@ -1,0 +1,305 @@
+[
+	[
+		{
+			"sprite": "tiles/ground/5.png",
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "monster",
+				"value": "123",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/48.png",
+			"event": {
+				"type": "monster",
+				"value": "5554",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/43.png"
+		},
+		{
+			"sprite": "tiles/ground/44.png"
+		},
+		{
+			"sprite": "tiles/ground/47.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/27.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/27.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/47.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/27.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "F"
+			}
+		},
+		{
+			"sprite": "tiles/ground/45.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/39.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/47.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/34.png",
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/47.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "0",
+				"chance": "30"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	]
+]

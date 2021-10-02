@@ -1,0 +1,107 @@
+*{margin: 0;padding: 0;}
+img {
+    border: 0;
+	vertical-align:top;
+}
+.tileset{
+	background: #ccc;
+	float: left;
+	width: 70%;
+	min-height: 20px;
+}
+.tileslist{
+	background: green;
+	float: right;
+	width: 30%;
+	min-height: 20px;
+}
+.settings{
+	background: yellow;
+	min-height: 20px;
+	padding: 20px;
+}
+.container:before,
+.container:after {
+  content: "";
+  display: table;
+} 
+.container:after {
+  clear: both;
+}
+.collapse span{
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background: #2b2b2b;
+	color: #fff;
+	cursor: pointer;
+}
+.collapse .elements{
+	display: none;
+}
+table{
+	margin: 0 auto;
+}
+td{
+	width: 30px;
+	height: 30px;
+}
+.tableSettings{
+	float: left;
+	width: 33%;
+}
+.tableSettings a, .elementSettings a{
+	display: block;
+	background: #ddd;
+	margin: 10px auto;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	cursor: pointer;
+}
+.tableSettings a:hover, .elementSettings a:hover{
+	background: #000;
+	color: #fff;
+}
+.map{
+	float: left;
+	width: 33%;
+}
+.elementSettings{
+	float: left;
+	width: 33%;
+}
+.elementSettings div{
+	border: 1px dashed #2b2b2b;
+	padding: 10px;
+	display: none;
+}
+
+
+span.user{position: relative;}
+span.user > img:first-child{
+	position: relative;
+}
+span.user > img:last-child{
+	position: absolute;
+	/*top: 0;*/
+	left: 0;
+}
+.control a{
+	background: #ddd;
+	margin: 10px auto;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	cursor: pointer;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+.control a:hover{
+	background: #000;
+	color: #fff;
+}
+.td-through{
+	text-decoration: line-through
+}

@@ -1,0 +1,112 @@
+[
+	[
+		{
+			"sprite": "tiles/ground/10.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "F",
+				"down": "T",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/2.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/3.png",
+			"event": {
+				"type": "location",
+				"value": "2",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/5.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "T",
+				"down": "T",
+				"left": "F",
+				"right": "F"
+			}
+		},
+		{
+			"sprite": "tiles/ground/43.png"
+		},
+		{
+			"sprite": "tiles/ground/44.png"
+		}
+	],
+	[
+		{
+			"sprite": "tiles/ground/7.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "T",
+				"down": "F",
+				"left": "F",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/9.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "T",
+				"right": "T"
+			}
+		},
+		{
+			"sprite": "tiles/ground/6.png",
+			"event": {
+				"type": "",
+				"value": "",
+				"chance": "100"
+			},
+			"moving": {
+				"up": "F",
+				"down": "F",
+				"left": "T",
+				"right": "F"
+			}
+		}
+	]
+]
